@@ -10,11 +10,11 @@
 - [Gas Cyclone Optimisation using DEPSO](https://www.mdpi.com/2076-3417/11/20/9772/htm)
  
  
-🌱 *Currently Learning*: Python with a target of using it for machine learning and data science<br>
+🌱 *Currently Learning*: Python with a target of using it for machine learning and data science.<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
 
 
-🧾 My projects: Below are a few of my projects <br>
+🧾 My projects, below are a few of my projects:  <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Housing-prediction-app](https://share.streamlit.io/daniau23/house-stream/main/housing_main.py)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Iris-data-prediction-app](https://share.streamlit.io/daniau23/streaming/main/my_iris.py)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vehicles-unsupervised-learning-and-prediction](https://github.com/daniau23/Vehicles-unsupervised.git)
