@@ -1,5 +1,7 @@
 <!--<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>-->
-![data_science_1](https://user-images.githubusercontent.com/87085687/156730095-544f85eb-874c-425b-a1c1-9b180f1fc595.png)
+![data_science_3](https://user-images.githubusercontent.com/87085687/156731265-d32e01b1-b79d-4e75-84d2-377d73f37300.jpg)
+
+
 ### Hi there 👋, I'm Daniel Ihenacho, an aspiring Data scientist and Analyst, and a machine learning enthusiast. Welcome to my github page! <br>
  
 
