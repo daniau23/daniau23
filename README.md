@@ -10,7 +10,7 @@
 - [Gas Cyclone Optimisation using DEPSO](https://www.mdpi.com/2076-3417/11/20/9772/htm)
  
  
-🌱 *Currently Learning*: Pyhton with a target of using it for machine learning and data science<br>
+🌱 *Currently Learning*: Python with a target of using it for machine learning and data science<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
 
 
