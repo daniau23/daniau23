@@ -17,7 +17,7 @@
 🧾 My projects, below are a few of my projects:  <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Housing-prediction-app](https://share.streamlit.io/daniau23/house-stream/main/housing_main.py)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Iris-data-prediction-app](https://share.streamlit.io/daniau23/streaming/main/my_iris.py)
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vehicles-unsupervised-learning-and-prediction](https://github.com/daniau23/Vehicles-unsupervised.git)
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vehicles-unsupervised-learning-and-prediction-app](https://share.streamlit.io/daniau23/vehicles-unsupervised/main)
 
 📫 How to reach me: <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](danihenacho95@gmail.com)
