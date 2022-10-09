@@ -18,7 +18,7 @@
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Housing-prediction-app](https://share.streamlit.io/daniau23/house-stream/main/housing_main.py)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Iris-data-prediction-app](https://share.streamlit.io/daniau23/streaming/main/my_iris.py)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vehicles-unsupervised-learning-and-prediction-app](https://share.streamlit.io/daniau23/vehicles-unsupervised/main)
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter-Sentiment-Analysis](https://github.com/daniau23/twitter_sentiment.git)
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter-Sentiment-Analysis-text-classification-and-Word2Vec](https://github.com/daniau23/twitter_sentiments.git)
 
 📫 How to reach me: <br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](danihenacho95@gmail.com)
