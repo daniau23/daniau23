@@ -2,7 +2,7 @@
 ![data_science_3](https://user-images.githubusercontent.com/87085687/156731265-d32e01b1-b79d-4e75-84d2-377d73f37300.jpg)
 
 
-### Hi there 👋, I'm Daniel Ihenacho, an aspiring Data scientist and Analyst, and a machine learning enthusiast. Welcome to my github page! <br>
+### Hi there 👋, I'm Daniel Chiebuka Ihenacho, an aspiring Data scientist and Analyst, and a machine learning enthusiast. Welcome to my github page! <br>
  
 
 <!--Resume:  [Daniel Ihenacho Resume](https://resume.danielihenacho.com) (PDF download)-->
