@@ -32,9 +32,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=daniau23&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-<a href="[https://github.com/daniau23](https://github.com/daniau23)">
+<!-- <a href="[https://github.com/daniau23](https://github.com/daniau23)">
     <img src="https://github-stats-alpha.vercel.app/api?username=daniau23&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a>-->
 
 </p>
 
