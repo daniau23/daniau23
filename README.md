@@ -67,24 +67,23 @@
 
 |Currently|
 |--|
-|💻 **Working** on [Amazon Sentiments Analysis and Text Classification](https://github.com/daniau23/amazon_sentiment).|
 |**Learning** PowerBI|
 |**Reading** Practical Natural Language Processing A Comprehensive Guide <br>to Building Real-World NLP Systems by(Sowmya Vajjala,<br> Bodhisattwa Majumder, Anuj Gupta, <br> and Harshit Surana)|
-|**Reading** Python Natural Language Processing: Explore NLP <br>with machine learning and deep learning techniques by Jalaj Thanaki|
+|**Reading** Research articles related to topic modelling|
 </td></tr> </table>
 
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning</th>
+<tr><th>Machine Learning & Data Science</th>
 <tr><td>
 
 |Title | Technologies|
 |--|--|
-| [House Prediction Streamlit App](https://share.streamlit.io/daniau23/house-stream/main/housing_main.py) | ![Streamlit](https://img.shields.io/badge/Streamlit-darkred?style=flat-square&logo=streamlit) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-darkblue?style=flat-square&logo=scipy) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) <br>![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly)|
 | [Vehicles Unsupervised Learning and-Prediction App](https://share.streamlit.io/daniau23/vehicles-unsupervised/main) | ![Streamlit](https://img.shields.io/badge/Streamlit-darkred?style=flat-square&logo=streamlit) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) <br>![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) ![Yellowbrick](https://img.shields.io/badge/Yellowbrick-yellow?style=flat-square&logo=Yellowbrick)| 
 | [Twitter Sentiments Analysis and Text Classification](https://github.com/daniau23/twitter_sentiments) | ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn)<br> ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) ![Spacy](https://img.shields.io/badge/Spacy-lightblue?style=flat-square&logo=spacy) ![Gensim](https://img.shields.io/badge/Gensim-lightblue?style=flat-square&logo=gensim)|
 | [Amazon Sentiments Analysis and Text Classification](https://github.com/daniau23/amazon_sentiment) | ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Postgresql](https://img.shields.io/badge/Postgresql-darkblue?style=flat-square&logo=postgresql)![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) <br>![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) ![Spacy](https://img.shields.io/badge/Spacy-lightblue?style=flat-square&logo=spacy) ![Gensim](https://img.shields.io/badge/Gensim-lightblue?style=flat-square&logo=gensim)<br> ![Yellowbrick](https://img.shields.io/badge/Yellowbrick-yellow?style=flat-square&logo=yellowbrick)|
+| [Twitter Topic Modelling](https://github.com/daniau23/topic_modelling_one) | ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Postgresql](https://img.shields.io/badge/Postgresql-darkblue?style=flat-square&logo=postgresql)![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) <br>![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) ![Spacy](https://img.shields.io/badge/Spacy-lightblue?style=flat-square&logo=spacy) ![Gensim](https://img.shields.io/badge/Gensim-lightblue?style=flat-square&logo=gensim)<br> ![Top2Vec](https://img.shields.io/badge/Top2Vec-lightblue?style=flat-square&logo=top2vec) ![BERTopic](https://img.shields.io/badge/BERTopic-lightblue?style=flat-square&logo=bertopic)|
 
 </td></tr> </table>
 
