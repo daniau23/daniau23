@@ -65,13 +65,16 @@
 <tr>
 <td>
 
-|Currently|
-|--|
-|**Learning** PowerBI|
-|**Reading** Practical Natural Language Processing A Comprehensive Guide <br>to Building Real-World NLP Systems by(Sowmya Vajjala,<br> Bodhisattwa Majumder, Anuj Gupta, <br> and Harshit Surana)|
-|**Reading** Research articles related to question-answering-systems|
-|**Course** Mathematics for Machine Learning and Data Science Specialization|
-|**Course** DeepLearning.AI TensorFlow Developer Professional Certificate|
+|Currently|Status
+|--|--|
+|PowerBI|**Learning** |
+|Practical Natural Language Processing A Comprehensive Guide <br>to Building Real-World NLP Systems by(Sowmya Vajjala,<br> Bodhisattwa Majumder, Anuj Gupta, <br> and Harshit Surana)|**Reading** |
+|Research articles related to question-answering-systems|**Reading** |
+|**Course** Mathematics for Machine Learning and Data Science Specialization|**Reading** |
+|**Course** Deep Learning Specialization|**Reading** |
+|**Course** TensorFlow: Advanced Techniques Specialization|**Reading** |
+|**Course** TensorFlow: Data and Deployment Specialization|**Reading** |
+|**Course** DeepLearning.AI TensorFlow Developer Professional Certificate|**Done** |
 </td></tr> </table>
 
 
