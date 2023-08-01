@@ -59,24 +59,22 @@
 |Design of Gas Cyclone <br> Using Hybrid Particle Swarm <br> Optimization Algorithm|[MDPI](https://www.mdpi.com/2076-3417/11/20/9772/htm)
 </td></tr> </table>
 
-<table class="What I'm doing at the moment">
-<tr><th>💻 What I'm Currently Doing </th>
-
-<tr>
-<td>
-
-|Currently|Status
-|--|--|
-|PowerBI|**Learning** |
-|Practical Natural Language Processing A Comprehensive Guide <br>to Building Real-World NLP Systems by(Sowmya Vajjala,<br> Bodhisattwa Majumder, Anuj Gupta, <br> and Harshit Surana)|**Reading** |
-|Research articles related to question-answering-systems|**Reading** |
-|**Course** Mathematics for Machine Learning and Data Science Specialization|**Reading** |
-|**Course** Deep Learning Specialization|**Reading** |
-|**Course** TensorFlow: Advanced Techniques Specialization|**Reading** |
-|**Course** TensorFlow: Data and Deployment Specialization|**Reading** |
-|**Course** DeepLearning.AI TensorFlow Developer Professional Certificate|**Done** |
-</td></tr> </table>
-
+<table>
+    
+|Certifications|
+|--|
+|[DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BKB8LLGTTEET)|
+|[AI for Medicine Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ABC96RN2D2MW)|
+|[Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/6DBUY38YALFX)|
+|[Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/UNGCSQ6EXVJN)|
+|[Advanced Computer Vision with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/CSGHU3MPSZKY)|
+|[Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/Z9SEUTRWEAT8)|
+|[Build Dashboards in Power BI](https://www.coursera.org/account/accomplishments/certificate/UG5C2NMJXVCW)|
+|[Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/certificate/47RTMHGLH9UL)|
+|[NITDA Data Science Associate](https://www.credly.com/badges/f3574f89-f7a2-413a-b454-f56d25ecbc66/linked_in_profile)|
+|[NITDA Data Science Expert](https://www.credly.com/badges/1676d5c5-b596-4651-b0f6-645dd0f00cd7/linked_in_profile)|
+|[NITDA Data Science Professional](https://www.credly.com/badges/60aa1de3-a7a2-4596-9f72-0b0738fefeef/linked_in_profile)|
+</table>
 
 ### 🖥️ Open-Source Projects
 <table>
@@ -104,6 +102,23 @@
 |[Super Bowl Ads Analysis](https://github.com/daniau23/super_bowl_ads_analysis)| ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn)<br> ![PowerBI](https://img.shields.io/badge/PowerBI-lightyellow?style=flat-square&logo=powerbi)|
 
 </td></tr> </table>
+
+<details>
+<summary>Take a look at what I'm currently doing</summary>
+<table class="What I'm doing at the moment">
+<tr><th>💻 What I'm Currently Doing </th>
+<tr>
+<td>
+
+|Currently|Status
+|--|--|
+|PowerBI|**Learning** |
+|Practical Natural Language Processing A Comprehensive Guide <br>to Building Real-World NLP Systems by(Sowmya Vajjala,<br> Bodhisattwa Majumder, Anuj Gupta, <br> and Harshit Surana)|**Reading** |
+|Research articles related to question-answering-systems|**Reading** |
+|**Course** Mathematics for Machine Learning and Data Science Specialization|**Reading** |
+|**Course** Deep Learning Specialization|**Reading** |
+</td></tr> </table>
+</details>
 
 <details>
 <summary>📈 Stats</summary>
