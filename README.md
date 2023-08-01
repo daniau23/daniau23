@@ -35,9 +35,9 @@
 <!-- <a href="[https://github.com/daniau23](https://github.com/daniau23)">
     <img src="https://github-stats-alpha.vercel.app/api?username=daniau23&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>-->
-
 </p>
 
+    
 - 🌱 Using Python with a target of machine learning, data science & analytics.
 
 - 💡 Open to collaborating on projects and innovative ideas. 
@@ -48,7 +48,7 @@
     - 🍂 My favourite season is Spring 😄
 
 <!-- * 🧾 Paper publication:   -->
-<table class='paper-publication'>
+<table align ="center" class='paper-publication'>
 <tr><th>🧾 Paper publications </th>
 
 <tr>
@@ -59,7 +59,10 @@
 |Design of Gas Cyclone <br> Using Hybrid Particle Swarm <br> Optimization Algorithm|[MDPI](https://www.mdpi.com/2076-3417/11/20/9772/htm)
 </td></tr> </table>
 
-<table>
+<!--Certifications-->
+<table align ="center" class="certifications">
+    <tr>
+<td>
     
 |Certifications|
 |--|
@@ -74,11 +77,15 @@
 |[NITDA Data Science Associate](https://www.credly.com/badges/f3574f89-f7a2-413a-b454-f56d25ecbc66/linked_in_profile)|
 |[NITDA Data Science Expert](https://www.credly.com/badges/1676d5c5-b596-4651-b0f6-645dd0f00cd7/linked_in_profile)|
 |[NITDA Data Science Professional](https://www.credly.com/badges/60aa1de3-a7a2-4596-9f72-0b0738fefeef/linked_in_profile)|
-</table>
+</td></tr> </table>
 
-### 🖥️ Open-Source Projects
-<table>
-<tr><th>Machine Learning & Data Science</th>
+<!--Open-Source Projects-->
+<!--### 🖥️ Open-Source Projects (This wasn't aligning to the center) -->
+<!--Machine Learning & Data Science-->
+<details align ="center">
+<summary >My Projects</summary>
+<table align ="center" class="ml-ds">
+<tr><th>Machine Learning & Data Science Projects</th>
 <tr><td>
 
 |Title | Technologies|
@@ -90,8 +97,9 @@
 
 </td></tr> </table>
 
-<table>
-<tr><th>Data Analytics</th>
+<!--Data Analytics-->
+<table align ="center" class="analytics">
+<tr><th>Data Analytics Projects</th>
 <tr><td>
 
 |Title | Technologies|
@@ -100,12 +108,23 @@
 | [Credit Card Customer Data with Clustering and RFM](https://github.com/daniau23/credit_card_customer_data) | ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn)<br> ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly)|
 |[Taxi Cabs Analysis](https://github.com/daniau23/taxi_cabs)| ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn)<br> ![PowerBI](https://img.shields.io/badge/PowerBI-lightyellow?style=flat-square&logo=powerbi)|
 |[Super Bowl Ads Analysis](https://github.com/daniau23/super_bowl_ads_analysis)| ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn)<br> ![PowerBI](https://img.shields.io/badge/PowerBI-lightyellow?style=flat-square&logo=powerbi)|
-
 </td></tr> </table>
+</details>
+<!--<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniau23&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniau23&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniau23&theme=dracula)
+<br>
+</details>-->
 
-<details>
-<summary>Take a look at what I'm currently doing</summary>
-<table class="What I'm doing at the moment">
+<!--What I'm doing at the moment-->
+
+<details align ="center">
+<summary >💻Take a look at what I'm doing</summary>
+<table align ="center" class="What I'm doing at the moment">
 <tr><th>💻 What I'm Currently Doing </th>
 <tr>
 <td>
@@ -120,20 +139,4 @@
 </td></tr> </table>
 </details>
 
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniau23&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniau23&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniau23&theme=dracula)
-
-
-<br>
-
-
-</details>
-
-![data_science_3](https://user-images.githubusercontent.com/87085687/156731265-d32e01b1-b79d-4e75-84d2-377d73f37300.jpg)
+<!--![data_science_3](https://user-images.githubusercontent.com/87085687/156731265-d32e01b1-b79d-4e75-84d2-377d73f37300.jpg) -->
