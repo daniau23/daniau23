@@ -136,6 +136,7 @@ My Github Stats
 |Research articles related to question-answering-systems|**Reading** |
 |**Course** Large Language Models with Semantic Search|**Learning** |
 |**Course** Deep Learning Specialization|**Learning** |
+|**Course** Sports Performance Analytics Specialization|**Learning** |
 </td></tr> </table>
 </details>
 
