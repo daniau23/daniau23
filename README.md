@@ -74,7 +74,8 @@
 | [AI for Medicine Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ABC96RN2D2MW) | [Natural Language Processing <br> with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/6DBUY38YALFX)|
 | [Build Dashboards in Power BI](https://www.coursera.org/account/accomplishments/certificate/UG5C2NMJXVCW)|[Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/certificate/47RTMHGLH9UL)|
 | [NITDA Data Science Associate](https://www.credly.com/badges/f3574f89-f7a2-413a-b454-f56d25ecbc66/linked_in_profile)|[NITDA Data Science Expert](https://www.credly.com/badges/1676d5c5-b596-4651-b0f6-645dd0f00cd7/linked_in_profile)|
-| [NITDA Data Science Professional](https://www.credly.com/badges/60aa1de3-a7a2-4596-9f72-0b0738fefeef/linked_in_profile)| [Mathematics for Machine Learning <br> and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9EH2CKFZSFWE)|
+| [NITDA Data Science Professional](https://www.credly.com/badges/60aa1de3-a7a2-4596-9f72-0b0738fefeef/linked_in_profile)| [Mathematics for Machine Learning <br> and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9EH2CKFZSFWE)| 
+| [Google Project Management Certificate](https://www.credly.com/badges/a9668b44-69ff-4f9e-bce2-3d03c9da65cc/public_url) | []()|
 <!--| []()| []()|-->
 
 </td></tr> </table>
@@ -135,8 +136,8 @@ My Github Stats
 |Practical Natural Language Processing A Comprehensive Guide <br> to Building Real-World NLP Systems by(Sowmya Vajjala,<br> Bodhisattwa Majumder, Anuj Gupta, <br> and Harshit Surana)|**Reading** |
 |Research articles related to question-answering-systems|**Reading** |
 |**Course** Large Language Models with Semantic Search|**Learning** |
-|**Course** Deep Learning Specialization|**Learning** |
-|**Course** Google Project Management: Professional Certificate|**Learning** |
+|**Course** Microsoft Power BI Data Analyst Professional Certificate|**Learning** |
+|**Course** Microsoft Azure Data Scientist Associate (DP-100)|**Learning** |
 </td></tr> </table>
 </details>
 
