@@ -139,6 +139,7 @@ My Github Stats
 |--|--|
 |Research articles related to NLP|**Reading** |
 |PowerBI|**Learning** |
+|C# programming|**Learning** |
 |**Course** Train & Fine-Tune LLMs for Production |**Learning** |
 |**Course** Retrieval Augmented Generation <br> for Production with LangChain & LlamaIndex |**Learning** |
 |**Course** LangChain & Vector Databases in Production |**Learning** |
