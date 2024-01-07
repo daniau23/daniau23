@@ -67,15 +67,20 @@
 <tr><th> 📄Certifications</th>
 <tr><td>
     
-| | |
+|AI & Data Science|Analytics & Management
 |--|--|
-| [DeepLearning.AI <br> TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BKB8LLGTTEET) | [Advanced Computer Vision <br> with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/CSGHU3MPSZKY)|
-| [Custom Models, Layers, <br> and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/UNGCSQ6EXVJN) | [Custom and Distributed Training <br> with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/Z9SEUTRWEAT8)|
-| [AI for Medicine Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ABC96RN2D2MW) | [Natural Language Processing <br> with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/6DBUY38YALFX)|
-| [Build Dashboards in Power BI](https://www.coursera.org/account/accomplishments/certificate/UG5C2NMJXVCW)|[Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/certificate/47RTMHGLH9UL)|
-| [NITDA Data Science Associate](https://www.credly.com/badges/f3574f89-f7a2-413a-b454-f56d25ecbc66/linked_in_profile)|[NITDA Data Science Expert](https://www.credly.com/badges/1676d5c5-b596-4651-b0f6-645dd0f00cd7/linked_in_profile)|
-| [NITDA Data Science Professional](https://www.credly.com/badges/60aa1de3-a7a2-4596-9f72-0b0738fefeef/linked_in_profile)| [Mathematics for Machine Learning <br> and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9EH2CKFZSFWE)| 
-| [Google Project Management Certificate](https://www.credly.com/badges/a9668b44-69ff-4f9e-bce2-3d03c9da65cc/public_url) | []()|
+[NITDA Data Science Associate](https://www.credly.com/badges/f3574f89-f7a2-413a-b454-f56d25ecbc66/linked_in_profile)|[Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/certificate/47RTMHGLH9UL)|
+|[NITDA Data Science Professional](https://www.credly.com/badges/60aa1de3-a7a2-4596-9f72-0b0738fefeef/linked_in_profile)| [Build Dashboards in Power BI](https://www.coursera.org/account/accomplishments/certificate/UG5C2NMJXVCW)|
+|[NITDA Data Science Expert](https://www.credly.com/badges/1676d5c5-b596-4651-b0f6-645dd0f00cd7/linked_in_profile)|[HR Analytics- Build an HR dashboard using Power BI](https://www.coursera.org/account/accomplishments/verify/L3LGSZURWAWQ)|
+|[Natural Language Processing <br> with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/6DBUY38YALFX)|[From Excel to Power BI](https://www.coursera.org/account/accomplishments/verify/U25EHLL5TME9)|
+|[Mathematics for Machine Learning <br> and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9EH2CKFZSFWE)|[Data-Driven Decisions with Power BI](https://www.coursera.org/account/accomplishments/verify/A5KB5HKQST8W)|
+| [DeepLearning.AI <br> TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BKB8LLGTTEET)|[Google Project Management Certificate:Specialization](https://www.credly.com/badges/a9668b44-69ff-4f9e-bce2-3d03c9da65cc/public_url)|
+| [Advanced Computer Vision <br> with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/CSGHU3MPSZKY)|[Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/LMD8NXZGZ3RG)|
+| [AI for Medicine Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ABC96RN2D2MW)||
+|[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/8DGAKUXVTAWN)||
+|[Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/UCK8BQ2VXVY8)||
+|[Microsoft Azure Data Scientist Associate (DP-100)](https://www.coursera.org/account/accomplishments/specialization/Z2ANMMGTYCUT)||
+|[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/account/accomplishments/specialization/HWNXW468D2W6)||
 <!--| []()| []()|-->
 
 </td></tr> </table>
@@ -132,12 +137,13 @@ My Github Stats
 
 |Currently|Status
 |--|--|
+|Research articles related to NLP|**Reading** |
 |PowerBI|**Learning** |
-|Practical Natural Language Processing A Comprehensive Guide <br> to Building Real-World NLP Systems by(Sowmya Vajjala,<br> Bodhisattwa Majumder, Anuj Gupta, <br> and Harshit Surana)|**Reading** |
-|Research articles related to question-answering-systems|**Reading** |
-|**Course** Large Language Models with Semantic Search|**Learning** |
-|**Course** Microsoft Power BI Data Analyst Professional Certificate|**Learning** |
-|**Course** Microsoft Azure Data Scientist Associate (DP-100)|**Learning** |
+|**Course** Train & Fine-Tune LLMs for Production |**Learning** |
+|**Course** Retrieval Augmented Generation <br> for Production with LangChain & LlamaIndex |**Learning** |
+|**Course** LangChain & Vector Databases in Production |**Learning** |
+|**Course** Advanced Business Analytics Specialization|**Learning** |
+
 </td></tr> </table>
 </details>
 
