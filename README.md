@@ -143,7 +143,6 @@ My Github Stats
 |**Course** Train & Fine-Tune LLMs for Production |**Learning** |
 |**Course** Retrieval Augmented Generation <br> for Production with LangChain & LlamaIndex |**Learning** |
 |**Course** LangChain & Vector Databases in Production |**Learning** |
-|**Course** Advanced Business Analytics Specialization|**Learning** |
 
 </td></tr> </table>
 </details>
