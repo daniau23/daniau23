@@ -51,18 +51,21 @@
     - 🍂 My favourite season is Spring 😄
 
 <!-- * 🧾 Paper publication:   -->
+<details align ="center">
+<summary> 📄 Publications </summary>
 <table align ="center" class='paper-publication'>
 <tr><th>🧾 Paper publications </th>
-
-<tr>
-<td>
+<tr><td>
 
 |Title | Journal Link|
 |--|--|
 |Design of Gas Cyclone <br> Using Hybrid Particle Swarm <br> Optimization Algorithm|[MDPI](https://www.mdpi.com/2076-3417/11/20/9772/htm)
 </td></tr> </table>
+</details>
 
 <!--Certifications-->
+<details align ="center">
+<summary > 📄 Certifications </summary>
 <table align ="center" class="certifications">
 <tr><th> 📄Certifications </th>
 <tr><th> 📄AI, Data Science, Analytics & Management </th>
@@ -76,16 +79,18 @@
 | [Advanced Computer Vision <br> with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/CSGHU3MPSZKY)|[Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/LMD8NXZGZ3RG)|[AI for Medicine Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/ABC96RN2D2MW)|[Train & Fine-Tune LLMs for Production](https://learn.activeloop.ai/certificates/pshjnfhw6y)|
 |[TensorFlow: Advanced Techniques](https://www.coursera.org/account/accomplishments/specialization/8DGAKUXVTAWN)|[Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/UCK8BQ2VXVY8)|[Microsoft Azure Data Scientist <br> Associate(DP-100)](https://www.coursera.org/account/accomplishments/specialization/Z2ANMMGTYCUT)|[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/account/accomplishments/specialization/HWNXW468D2W6)|
 |[Train & Fine-Tune LLMs <br> for Production](https://learn.activeloop.ai/certificates/pshjnfhw6y)|[LangChain & Vector Databases <br>  in Production](https://learn.activeloop.ai/certificates/owghdxhtab)|[Retrieval Augmented Generation <br> for <br> Production with <br> LangChain & LlamaIndex](https://learn.activeloop.ai/certificates/qtijnqechj)|
+|[Google Project Management: <br>Specialization](https://www.credly.com/badges/a9668b44-69ff-4f9e-bce2-3d03c9da65cc/public_url)|||
 ||||
 <!--| []()| []()|-->
 
 </td></tr> </table>
+</details>
 
 <!--Open-Source Projects-->
 <!--### 🖥️ Open-Source Projects (This wasn't aligning to the center) -->
 <!--Machine Learning & Data Science-->
 <details align ="center">
-<summary > 🖥️ My Projects</summary>
+<summary > 🖥️ Projects</summary>
 <table align ="center" class="ml-ds">
 <tr><th>Machine Learning & Data Science Projects</th>
 <tr><td>
@@ -125,7 +130,7 @@ My Github Stats
 <!--What I'm doing at the moment-->
 
 <details align ="center">
-<summary >💻Take a look at what I'm doing</summary>
+<summary>💻 Take a look at what I'm doing</summary>
 <table align ="center" class="What I'm doing at the moment">
 <tr><th>💻 What I'm Currently Doing </th>
 <tr>
