@@ -1,6 +1,6 @@
 <p align ="center">
 <a href="https://github.com/daniau23">
-    <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&size=18&duration=2000&pause=100&multiline=true&width=600&height=95&lines=Daniel+Chiebuka+Ihenacho;Data+scientist+and+Analyst+%7C;Machine+learning+enthusiast+%7C;NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&size=18&duration=2000&pause=100&multiline=true&width=600&height=95&lines=Daniel+Chiebuka+Ihenacho;Data+Scientist+and+Analyst+%7C;Machine+Learning+Enthusiast+%7C;NLP" alt="Typing SVG" />
 </a>
 <br/>
 
