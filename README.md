@@ -59,7 +59,10 @@
 
 |Title | Journal Link|
 |--|--|
-|Design of Gas Cyclone <br> Using Hybrid Particle Swarm <br> Optimization Algorithm|[MDPI](https://www.mdpi.com/2076-3417/11/20/9772/htm)
+|Design of Gas Cyclone Using <br> Hybrid Particle Swarm Optimization Algorithm|[MDPI](https://www.mdpi.com/2076-3417/11/20/9772/htm)
+|Research Assistant Using Cohere Reranker with <br> Active Loop's VectorStore for QA with Sources|[ReadyTensor](https://app.readytensor.ai/publications/research-assistant-LstceSnb3IDH)
+|The Agentic Research Abstract Generator and <br> Web Content Summariser Agent With LangGraph|[ReadyTensor](https://app.readytensor.ai/publications/the-agentic-research-abstract-generator-and-web-content-summariser-agent-with-langraph-gYeyu875mKsB)
+|LangGraph Agentic Research Abstract Generator and <br> Web Content Summariser Agent With Streamlit|[ReadyTensor](https://app.readytensor.ai/publications/langgraph-agentic-research-abstract-generator-and-web-content-summariser-agent-with-streamlit-J0fCORmpykZn)
 </td></tr> </table>
 </details>
 
