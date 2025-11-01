@@ -8,9 +8,9 @@
 <a href="https://www.linkedin.com/in/daniel-ihenacho-637467223">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href='https://my.indeed.com/p/danielchiebukai-hz1szfb' target="_blank">
+<!--<a href='https://my.indeed.com/p/danielchiebukai-hz1szfb' target="_blank">
     <img alt='Indeed' src='https://img.shields.io/badge/-Indeed-lightblue?style=flat-square&logo=indeed&logoColor=darkblue'>
-</a>
+</a>-->
 <a href="mailto:danihenacho95@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
