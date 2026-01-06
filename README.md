@@ -8,15 +8,11 @@
 <a href="https://www.linkedin.com/in/daniel-ihenacho-637467223">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<!--<a href='https://my.indeed.com/p/danielchiebukai-hz1szfb' target="_blank">
-    <img alt='Indeed' src='https://img.shields.io/badge/-Indeed-lightblue?style=flat-square&logo=indeed&logoColor=darkblue'>
-</a>-->
+
 <a href="mailto:danihenacho95@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<!-- <a href='https://twitter.com/Danny_MLE' target="_blank">
-    <img alt='Twitter' src='https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&logoColor=blue'>
-</a>-->
+
 <a href='https://kaggle.com/danielihenacho' target="_blank">
     <img alt='Kaggle' src='https://img.shields.io/badge/-Kaggle-white?style=flat-square&logo=kaggle&logoColor=blue'>
 </a>
@@ -31,13 +27,7 @@
 </a>
 <br/> 
 
-<!-- <a href="https://github.com/daniau23">
-    <img src="https://github-readme-stats.vercel.app/api?username=daniau23&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
 
-<!-- <a href="[https://github.com/daniau23](https://github.com/daniau23)">
-    <img src="https://github-stats-alpha.vercel.app/api?username=daniau23&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>-->
 </p>
 
     
