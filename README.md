@@ -107,9 +107,6 @@
 
 </td></tr> </table>
 
-<!--| [Amazon Sentiments Analysis and Text Classification](https://github.com/daniau23/amazon_sentiment) | ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Postgresql](https://img.shields.io/badge/Postgresql-darkblue?style=flat-square&logo=postgresql)![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) <br>![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) ![Spacy](https://img.shields.io/badge/Spacy-lightblue?style=flat-square&logo=spacy) ![Gensim](https://img.shields.io/badge/Gensim-lightblue?style=flat-square&logo=gensim)<br> ![Yellowbrick](https://img.shields.io/badge/Yellowbrick-yellow?style=flat-square&logo=yellowbrick)|
--->
-
 <!--Data Analytics-->
 <table align ="center" class="analytics">
 <tr><th>Data Analytics Projects</th>
