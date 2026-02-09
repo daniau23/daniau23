@@ -4,10 +4,10 @@
 </a>
 <br/>
 
-
+<!--LinkedIn
 <a href="https://www.linkedin.com/in/daniel-ihenacho-637467223">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
+</a>-->
 
 <a href="mailto:danihenacho95@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
