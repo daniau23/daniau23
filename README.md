@@ -53,6 +53,8 @@
 |Research Assistant Using Cohere Reranker with <br> Active Loop's VectorStore for QA with Sources|[ReadyTensor](https://app.readytensor.ai/publications/research-assistant-LstceSnb3IDH)
 |The Agentic Research Abstract Generator and <br> Web Content Summariser Agent With LangGraph|[ReadyTensor](https://app.readytensor.ai/publications/the-agentic-research-abstract-generator-and-web-content-summariser-agent-with-langraph-gYeyu875mKsB)
 |LangGraph Agentic Research Abstract Generator and <br> Web Content Summariser Agent With Streamlit|[ReadyTensor](https://app.readytensor.ai/publications/langgraph-agentic-research-abstract-generator-and-web-content-summariser-agent-with-streamlit-J0fCORmpykZn)
+|LoRAfrica: Scaling LLM Fine Tuning for African History|[ReadyTensor](https://app.readytensor.ai/publications/lorafrica-scaling-llm-fine-tuning-for-african-history-YR6rQNNj78OT)
+|LoRAfrica: Modal Serveless Compute with Streamlit|[ReadyTensor](https://app.readytensor.ai/publications/lorafrica-modal-serverless-compute-deployment-with-streamlit-uSaVNazSK0yQ)
 </td></tr> </table>
 </details>
 
@@ -90,10 +92,13 @@
 
 |Title | Technologies|
 |--|--|
-| [Agentic Researcher with Streamlit](https://github.com/daniau23/agentic_researcher_streamlit) | ![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=Python)  ![Streamlit](https://img.shields.io/badge/Streamlit-darkred?style=flat-square&logo=streamlit) ![Langchain](https://img.shields.io/badge/Langchain-darkblue?style=flat-square&logo=langchain) ![LangGraph](https://img.shields.io/badge/LangGraph-darkblue?style=flat-square&logo=langgraph) <br> ![HuggingFace](https://img.shields.io/badge/Huggingface-darkblue?style=flat-square&logo=huggingface) ![Deeplake](https://img.shields.io/badge/DeepLake-darkblue?style=flat-square&logo=activeloop)| 
-| [Research Assistant](https://github.com/daniau23/research_assistant) |![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=Python) ![Langchain](https://img.shields.io/badge/Langchain-darkblue?style=flat-square&logo=langchain) ![HuggingFace](https://img.shields.io/badge/Huggingface-darkblue?style=flat-square&logo=huggingface) ![Deeplake](https://img.shields.io/badge/DeepLake-darkblue?style=flat-square&logo=activeloop) |
-| [Twitter Sentiments Analysis and <br> Text  Classification](https://github.com/daniau23/twitter_sentiments) | ![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=Python) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) ![Spacy](https://img.shields.io/badge/Spacy-lightblue?style=flat-square&logo=spacy) ![Gensim](https://img.shields.io/badge/Gensim-lightblue?style=flat-square&logo=gensim)|
-| [Twitter Topic Modelling](https://github.com/daniau23/topic_modelling_one) | ![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=Python) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Postgresql](https://img.shields.io/badge/Postgresql-darkblue?style=flat-square&logo=postgresql )<br> ![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) <br> ![Spacy](https://img.shields.io/badge/Spacy-lightblue?style=flat-square&logo=spacy) ![Gensim](https://img.shields.io/badge/Gensim-lightblue?style=flat-square&logo=gensim) ![Top2Vec](https://img.shields.io/badge/Top2Vec-lightblue?style=flat-square&logo=top2vec) ![BERTopic](https://img.shields.io/badge/BERTopic-lightblue?style=flat-square&logo=bertopic)|
+| [LoRAfrica: Modal Serveless Compute with Streamlit](https://github.com/daniau23/LoRAfrica_Serverless_Modal_Compute_Streamlit)| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Runpod](https://img.shields.io/badge/Runpod-7B2CBF?style=flat-square&logo=runpod&logoColor=white) ![Modal](https://img.shields.io/badge/Modal-0B3D2E?style=flat-square&logo=modal&logoColor=white)![Huggingface](https://img.shields.io/badge/Huggingface-222222?style=flat-square&logo=huggingface) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-8A2BE2?style=flat-square&logo=vllm&logoColor=white)| 
+| [LoRAfrica CPU](https://github.com/daniau23/LoRAfrica_CPU) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-5A3E2B?style=flat-square&logo=llama.cpp&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Huggingface](https://img.shields.io/badge/Huggingface-222222?style=flat-square&logo=huggingface)| 
+| [LoRAfrica: Scaling LLM Fine Tuning for African History](https://github.com/daniau23/LoRAfrica)| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Runpod](https://img.shields.io/badge/Runpod-7B2CBF?style=flat-square&logo=runpod&logoColor=white) ![Axolotl](https://img.shields.io/badge/Axolotl-2A9D8F?style=flat-square&logo=axolotl&logoColor=white) ![Huggingface](https://img.shields.io/badge/Huggingface-222222?style=flat-square&logo=huggingface) <br> ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0A2540?style=flat-square&logo=deepspeed&logoColor=white)| 
+| [Agentic Researcher with Streamlit](https://github.com/daniau23/agentic_researcher_streamlit) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-0B3D2E?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1D3557?style=flat-square&logo=langgraph&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/Huggingface-222222?style=flat-square&logo=huggingface) ![DeepLake](https://img.shields.io/badge/DeepLake-C96A1A?style=flat-square&logo=activeloop&logoColor=white)| 
+| [Research Assistant](https://github.com/daniau23/research_assistant) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-0B3D2E?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Huggingface-222222?style=flat-square&logo=huggingface) ![DeepLake](https://img.shields.io/badge/DeepLake-C96A1A?style=flat-square&logo=activeloop&logoColor=white)|
+| [Twitter Sentiments Analysis and <br> Text  Classification](https://github.com/daniau23/twitter_sentiments) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-C96A1A?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-0B3D91?style=flat-square&logo=spacy&logoColor=white) ![Gensim](https://img.shields.io/badge/Gensim-FF6F00?style=flat-square&logo=gensim&logoColor=white)|
+| [Twitter Topic Modelling](https://github.com/daniau23/topic_modelling_one) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) <br> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-C96A1A?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) <br> ![spaCy](https://img.shields.io/badge/spaCy-0B3D91?style=flat-square&logo=spacy&logoColor=white) ![Gensim](https://img.shields.io/badge/Gensim-FF6F00?style=flat-square&logo=gensim&logoColor=white) ![Top2Vec](https://img.shields.io/badge/Top2Vec-6A1B9A?style=flat-square) ![BERTopic](https://img.shields.io/badge/BERTopic-0E7490?style=flat-square)|
 
 </td></tr> </table>
 
@@ -104,31 +109,52 @@
 
 |Title | Technologies|
 |--|--|
-[US Candy Distributor Analysis](https://github.com/daniau23/us_candy_distributor_analysis) | ![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=python) ![PowerBI](https://img.shields.io/badge/PowerBI-lightyellow?style=flat-square&logo=powerbi) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) <br> ![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) 
-| [Employee Analysis with PostgreSQL](https://github.com/daniau23/Employee_analysis_with_sql) | ![Postgresql](https://img.shields.io/badge/Postgresql-darkblue?style=flat-square&logo=postgresql) |
-|[Taxi Cabs Analysis](https://github.com/daniau23/taxi_cabs)| ![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![PowerBI](https://img.shields.io/badge/PowerBI-lightyellow?style=flat-square&logo=powerbi)|
-|[Super Bowl Ads Analysis](https://github.com/daniau23/super_bowl_ads_analysis)| ![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) ![PowerBI](https://img.shields.io/badge/PowerBI-lightyellow?style=flat-square&logo=powerbi)|
+| [US Candy Distributor Analysis](https://github.com/daniau23/us_candy_distributor_analysis) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) <br> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-C96A1A?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| [Employee Analysis with PostgreSQL](https://github.com/daniau23/Employee_analysis_with_sql) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| [Taxi Cabs Analysis](https://github.com/daniau23/taxi_cabs) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)|
+| [Super Bowl Ads Analysis](https://github.com/daniau23/super_bowl_ads_analysis) |  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)|
 </td></tr> </table>
 </details>
 
 <!--Tags-->
 <!--
-![PowerBI](https://img.shields.io/badge/PowerBI-lightyellow?style=flat-square&logo=powerbi)
-![Langchain](https://img.shields.io/badge/Langchain-darkblue?style=flat-square&logo=langchain)
-![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=python)
-![HuggingFace](https://img.shields.io/badge/Huggingface-darkblue?style=flat-square&logo=huggingface) 
-![Deeplake](https://img.shields.io/badge/DeepLake-darkblue?style=flat-square&logo=activeloop)
-![Streamlit](https://img.shields.io/badge/Streamlit-darkblue?style=flat-square&logo=streamlit)
-![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat-square&logo=pandas) 
-![Postgresql](https://img.shields.io/badge/Postgresql-darkblue?style=flat-square&logo=postgresql)
-![Sklearn](https://img.shields.io/badge/Sklearn-lightyellow?style=flat-square&logo=scikit-learn) <br>![Matplotlib](https://img.shields.io/badge/Matplotlib-maroon?style=flat-square&logo=matplotlib) 
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=seaborn) 
-![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly) 
-![Spacy](https://img.shields.io/badge/Spacy-lightblue?style=flat-square&logo=spacy) 
-![Gensim](https://img.shields.io/badge/Gensim-lightblue?style=flat-square&logo=gensim)<br> 
-![Top2Vec](https://img.shields.io/badge/Top2Vec-lightblue?style=flat-square&logo=top2vec) 
-![BERTopic](https://img.shields.io/badge/BERTopic-lightblue?style=flat-square&logo=bertopic)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Runpod](https://img.shields.io/badge/Runpod-7B2CBF?style=flat-square&logo=runpod&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-0B3D2E?style=flat-square&logo=modal&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Huggingface-222222?style=flat-square&logo=huggingface)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-8A2BE2?style=flat-square&logo=vllm&logoColor=white)
+
+![llama.cpp](https://img.shields.io/badge/llama.cpp-5A3E2B?style=flat-square&logo=llama.cpp&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+![Axolotl](https://img.shields.io/badge/Axolotl-2A9D8F?style=flat-square&logo=axolotl&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0A2540?style=flat-square&logo=deepspeed&logoColor=white)
+
+![Langchain](https://img.shields.io/badge/Langchain-0B3D2E?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1D3557?style=flat-square&logo=langgraph&logoColor=white)
+
+![DeepLake](https://img.shields.io/badge/DeepLake-C96A1A?style=flat-square&logo=activeloop&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+![spaCy](https://img.shields.io/badge/spaCy-0B3D91?style=flat-square&logo=spacy&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-FF6F00?style=flat-square&logo=gensim&logoColor=white)
+
+![Top2Vec](https://img.shields.io/badge/Top2Vec-6A1B9A?style=flat-square)
+![BERTopic](https://img.shields.io/badge/BERTopic-0E7490?style=flat-square)
 -->
 
 
@@ -155,10 +181,11 @@ My Github Stats
 
 |Currently|Status
 |--|--|
-|Research articles related to NLP|**Reading**|
+|Interview Prep|**Revising Data Structures and Alogrithms**|
+<!--|Research articles related to NLP|**Reading**|
 |Data Science and Analytics|**Implementing Projects**|
 |LLMs|**Reading and Implementing Projects**|
-<!--|PowerBI|**Executing Projects**|-->
+|PowerBI|**Executing Projects**|-->
 
 <!--|PowerBI|**Learning** |
 |C# programming|**Learning** |
