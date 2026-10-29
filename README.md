@@ -13,16 +13,16 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>-->
 
-<a href='https://kaggle.com/danielihenacho' target="_blank">
+<!--<a href='https://kaggle.com/danielihenacho' target="_blank">
     <img alt='Kaggle' src='https://img.shields.io/badge/-Kaggle-white?style=flat-square&logo=kaggle&logoColor=blue'>
-</a>
+</a>-->
 <a href='https://medium.com/@danihenacho95' target="_blank">
     <img alt='Medium' src='https://img.shields.io/badge/-Medium-lightgrey?style=flat-square&logo=medium&logoColor=black'>
 </a>
-<a href="https://orcid.org/0000-0003-3043-9201">
+<!-- <a href="https://orcid.org/0000-0003-3043-9201">
     <img src="https://img.shields.io/badge/-Orcid-white?style=flat-square&logo=orcid&logoColor=green">
-</a>
-<a href="https://daniel-portfolio-gilt-chi.vercel.app/">
+</a> -->
+<a href="https://daniel-ihenacho.vercel.app/">
     <img src="https://img.shields.io/badge/-My Website-navy?style=flat-square">
 </a>
 <!-- <a href="https://danihenacho95.wixsite.com/my-site">
